@@ -1,0 +1,16 @@
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: ivory;
+    text-align: center;
+}
+
+h1 {
+    border: 8px solid black;
+    background: linear-gradient(180deg, #4B0082, #66FF00 160%, #4B0082);     
+    color: white;
+    font-family: 'Rock Salt', sans-serif;
+}
+
+a {
+    color: #4B0082;
+}
